@@ -15,3 +15,5 @@ Examined patient distribution across age groups, gender, race, admission status,
 Tools & Skills: Power BI, Data Cleaning, Data Modeling, DAX, Power Query, Data Visualization, Dashboard Design, KPI Analysis, Descriptive Analytics
 
 Skills: Microsoft Power BI, DAX
+
+Link : https://app.powerbi.com/groups/me/reports/00335d34-3a8f-4b0f-8a55-2d9f2f53bd08/a21aa95a4cf18f167b1a?experience=power-bi
